@@ -3,7 +3,7 @@ import { Box, Flex, Stack, Text } from "@chakra-ui/react";
 export function HomeBanner() {
   return (
     <Box bgImg="/home-banner-bg.jpg">
-      <Flex maxW="1200px" px="5" pt="20" pb="16" mx="auto" position="relative">
+      <Flex w="1200px" px="5" pt="20" pb="16" mx="auto" position="relative">
         <Stack maxW="530px" spacing="5" color="gray.50">
           <Text fontWeight="medium" fontSize="4xl">
             5 Continentes, infinitas possibilidades.
