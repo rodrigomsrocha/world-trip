@@ -1,4 +1,4 @@
-import { Flex, Text, Box, Stack } from "@chakra-ui/react";
+import { Flex } from "@chakra-ui/react";
 import { HomeBanner } from "../components/HomeBanner";
 
 export default function Home() {
